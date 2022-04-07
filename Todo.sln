@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo", "Todo\Todo.csproj", "{4F1392F9-B9C5-44AA-B595-AF0437E6814E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoTaskNUnitTests", "TodoTaskNUnitTests\TodoTaskNUnitTests.csproj", "{145EE13C-5BCC-4899-A5BF-989FD0B56143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F1392F9-B9C5-44AA-B595-AF0437E6814E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1392F9-B9C5-44AA-B595-AF0437E6814E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1392F9-B9C5-44AA-B595-AF0437E6814E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1392F9-B9C5-44AA-B595-AF0437E6814E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145EE13C-5BCC-4899-A5BF-989FD0B56143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145EE13C-5BCC-4899-A5BF-989FD0B56143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145EE13C-5BCC-4899-A5BF-989FD0B56143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145EE13C-5BCC-4899-A5BF-989FD0B56143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93DC1F42-9DF6-4F9E-B8A0-365270AAEB52}
+	EndGlobalSection
+EndGlobal
